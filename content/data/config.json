@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://oval-wallaby-5d465.netlify.app"
 }
